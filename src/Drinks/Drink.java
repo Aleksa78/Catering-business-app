@@ -12,6 +12,7 @@ package Drinks;
 public abstract class Drink {
     private int cena;
     private String naziv;
+    private String jelo;
     
     public abstract String getTip();
 
